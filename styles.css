@@ -1,1 +1,15 @@
 /*  your css code here. If applicable */
+/* Add your global styles here */
+p {
+    font-size: 16px;
+    font-family: Times New Roman;
+    margin: 10px;
+}
+
+/* Styles for paragraphs with the "special" class */
+p.special {
+    color: #00f;
+    background-color: #eee;
+    font-family: Arial;
+    font-size: 20px;
+}
